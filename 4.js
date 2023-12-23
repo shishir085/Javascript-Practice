@@ -12,7 +12,7 @@ let cat=19
 // console.log(apple+ball);
 
 
-// console.log(`My name is ${ apple+ball} and I am ${cat} years old.`);   
+console.log(`My name is ${ apple+ball} and I am ${cat} years old.`);   
 
 
 
