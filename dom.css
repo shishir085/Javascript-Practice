@@ -1,0 +1,23 @@
+h1{
+    color: blue;
+    background-color: rgb(40, 182, 52);
+
+}
+
+#hello{
+    color: brown ;
+    background-color: yellow;
+}
+button{
+    color: red;
+    background-color: turquoise;
+}
+
+p{
+    background-color: #2d49c7;
+    color: white;
+}
+
+body{
+    background-color: coral;
+}
