@@ -1,5 +1,4 @@
-5d
-kconst a=85
+const a=85
 let b='ball'
 let c=false
 let d
