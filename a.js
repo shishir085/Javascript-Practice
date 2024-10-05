@@ -1,3 +1,4 @@
+
 pant = 2499
 bag = 15599
 totalcost = pant + bag
