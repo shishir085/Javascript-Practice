@@ -1,3 +1,4 @@
+
 // class  2 operators and conditions
 
 // let num=prompt('enter a number')
